@@ -5,5 +5,4 @@ FlightRadarAPI==1.1.9
 haversine==2.5.1
 idna==3.3
 requests==2.27.1
-tk==0.1.0
 urllib3==1.26.9
