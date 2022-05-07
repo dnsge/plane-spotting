@@ -11,7 +11,7 @@ e.g. if I were standing in front of the Washington Monument, I would run `./main
 ## Example Output:
 
 ```
-Spotted 5 nearby flights
+Spotted 2 nearby flights
 Flight JBU123 BCS3 @ (12.345º, -12.345º, 38000 ft)
 	Traveling at 479 mph, 231.00º (SW)
 	Azimuth angle: 256.85º (W)
